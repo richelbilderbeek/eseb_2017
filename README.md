@@ -40,14 +40,17 @@ Day|Time|What|Who
 From [http://maakfestival.nl/programma/bio-hacking-haal-dna-uit-een-aardbei](http://maakfestival.nl/programma/bio-hacking-haal-dna-uit-een-aardbei):
 
 ```
-Deelnemers van alle leeftijden zijn welkom om mee te doen met dit kleurrijke experiment van Alessio Marcozzi. 
-Je leert hoe je echt DNA uit een aardbei kunt halen enkel en alleen door het gebruik van zout, zeep en aardbeiensap. 
-Het experiment is eenvoudig en simpel, iedereen kan het. En natuurlijk mag je je DNA na afloop meenemen.
+Deelnemers van alle leeftijden zijn welkom om mee te doen 
+met dit kleurrijke experiment van Alessio Marcozzi. 
+Je leert hoe je echt DNA uit een aardbei kunt halen enkel en 
+alleen door het gebruik van zout, zeep en aardbeiensap. 
+Het experiment is eenvoudig en simpel, iedereen kan het. 
+En natuurlijk mag je je DNA na afloop meenemen.
 ```
 
 ### 12-22: THE HUMAN GENOME | A crash course
 
-From (http://maakfestival.nl/programma/the-human-genome-a-crash-course)[http://maakfestival.nl/programma/the-human-genome-a-crash-course]
+From [http://maakfestival.nl/programma/the-human-genome-a-crash-course](http://maakfestival.nl/programma/the-human-genome-a-crash-course)
 
 ```
 In het jaar 200 werd de eerste versie van ‘The Human Genome’ gereleased. 
