@@ -15,20 +15,19 @@ Date|Time|What|Who
 ?Thursday, ?Friday|?during Dojo, ?during N&T, ?during Arduino|?Practice human genome|Richel, Alessio, students
 
 ### At festival
-Day 1 is at either the 19 or 20th of August 2017.
 
-Day|Time|What|Who
+Date|Time|What|Who
 ---|---|---|---
-1|14:00-15:00|DNA extraction|?Richel, kids
-1|20:00-21:00|Human genome|?Alessio, scholars
-2|14:00-15:00|DNA extraction|?Richel, kids
-2|20:00-21:00|Human genome|?Alessio, scholars
-3|14:00-15:00|DNA extraction|?Richel, kids
-3|20:00-21:00|Human genome|?Alessio, scholars
-4|14:00-15:00|DNA extraction|?Richel, kids
-4|20:00-21:00|Human genome|?Alessio, scholars
-5|14:00-15:00|DNA extraction|?Richel, kids
-5|20:00-21:00|Human genome|?Alessio, scholars
+20 Aug|14:00-15:00|DNA extraction|?Richel, kids
+20 Aug|20:00-21:00|Human genome|?Alessio, scholars
+21 Aug|14:00-15:00|DNA extraction|?Richel, kids
+21 Aug|20:00-21:00|Human genome|?Alessio, scholars
+22 Aug|14:00-15:00|DNA extraction|?Richel, kids
+22 Aug|20:00-21:00|Human genome|?Alessio, scholars
+23 Aug|14:00-15:00|DNA extraction|?Richel, kids
+23 Aug|20:00-21:00|Human genome|?Alessio, scholars
+24 Aug|14:00-15:00|DNA extraction|?Richel, kids
+24 Aug|20:00-21:00|Human genome|?Alessio, scholars
 
  * `scholars`: 10+
  * `kids`: 7+
