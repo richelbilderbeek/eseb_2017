@@ -11,23 +11,23 @@ Activities at the ESEB 2017 by DIYbio and (optionally) the DJO N&T course.
 
 Date|Time|What|Who
 ---|---|---|---
-?Friday|?during N&T|Practice DNA extraction|?Peter, Richel, N&T students
-?Thursday, ?Friday|?during Dojo, ?during N&T, ?during Arduino|?Practice human genome|Richel, Alessio, students
+?Friday|?during N&T|Practice DNA extraction|Richel
+?Thursday, ?Friday|?during N&T|?Practice electrophoresis|Richel, Winand
 
 ### At festival
 
 Date|Time|What|Who
 ---|---|---|---
 20 Aug|14:00-15:00|DNA extraction|?Richel, kids
-20 Aug|20:00-21:00|Human genome|?Alessio, scholars
+20 Aug|20:00-21:00|Human genome|?Richel, scholars
 21 Aug|14:00-15:00|DNA extraction|?Richel, kids
-21 Aug|20:00-21:00|Human genome|?Alessio, scholars
+21 Aug|20:00-21:00|Human genome|?Richel, scholars
 22 Aug|14:00-15:00|DNA extraction|?Richel, kids
-22 Aug|20:00-21:00|Human genome|?Alessio, scholars
+22 Aug|20:00-21:00|Human genome|?Richel, scholars
 23 Aug|14:00-15:00|DNA extraction|?Richel, kids
-23 Aug|20:00-21:00|Human genome|?Alessio, scholars
+23 Aug|20:00-21:00|Human genome|?Richel, scholars
 24 Aug|14:00-15:00|DNA extraction|?Richel, kids
-24 Aug|20:00-21:00|Human genome|?Alessio, scholars
+24 Aug|20:00-21:00|Human genome|?Richel, scholars
 
  * `scholars`: 10+
  * `kids`: 7+
@@ -47,7 +47,17 @@ Het experiment is eenvoudig en simpel, iedereen kan het.
 En natuurlijk mag je je DNA na afloop meenemen.
 ```
 
-### 12-22: THE HUMAN GENOME | A crash course
+### Electrophoresis on your DNA
+
+```
+Some text here
+```
+
+### [OBSOLETE] 12-22: THE HUMAN GENOME | A crash course
+
+```
+Obsolete as there is no WiFi at the festival
+```
 
 From [http://maakfestival.nl/programma/the-human-genome-a-crash-course](http://maakfestival.nl/programma/the-human-genome-a-crash-course)
 
