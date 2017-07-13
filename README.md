@@ -3,7 +3,7 @@
 Activities at the ESEB 2017 by DIYbio and (optionally) the DJO N&T course.
 
  * 14:00-15:00: `DIY-DNA`, workshop aimed at 6-12
- * 20:00-21:00: `THE HUMAN GENOME`, workshop aimed at 12-22
+ * 20:00-21:00: `DIY-human-DNA`, workshop aimed at 12-22
 
 ## Schudule
 
@@ -47,7 +47,7 @@ Het experiment is eenvoudig en simpel, iedereen kan het.
 En natuurlijk mag je je DNA na afloop meenemen.
 ```
 
-### Electrophoresis on your DNA
+### DIY-human-DNA | Electrophoresis on your DNA
 
 ```
 Some text here
