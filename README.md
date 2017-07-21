@@ -3,7 +3,7 @@
 Activities at the ESEB 2017 by DIYbio and (optionally) the DJO N&T course.
 
  * 14:00-15:00: `DIY-DNA`, workshop aimed at 6-12
- * 20:00-21:00: `DIY-human-DNA`, workshop aimed at 12-22
+ * 16:00-17:00: `DIY-DNA`, workshop aimed at 6-12
 
 ## Schudule
 
@@ -11,26 +11,22 @@ Activities at the ESEB 2017 by DIYbio and (optionally) the DJO N&T course.
 
 Date|Time|What|Who
 ---|---|---|---
-?Friday|?during N&T|Practice DNA extraction|Richel
-?Thursday, ?Friday|?during N&T|?Practice electrophoresis|Richel, Winand
+1 Aug|12:00|Deadline requesting extra volunteers|Richel
 
 ### At festival
 
 Date|Time|What|Who
 ---|---|---|---
 20 Aug|14:00-15:00|DNA extraction|?Richel, kids
-20 Aug|20:00-21:00|Human genome|?Richel, scholars
+20 Aug|16:00-17:00|DNA extraction|?Richel, kids
 21 Aug|14:00-15:00|DNA extraction|?Richel, kids
-21 Aug|20:00-21:00|Human genome|?Richel, scholars
+21 Aug|16:00-17:00|DNA extraction|?Richel, kids
 22 Aug|14:00-15:00|DNA extraction|?Richel, kids
-22 Aug|20:00-21:00|Human genome|?Richel, scholars
+22 Aug|16:00-17:00|DNA extraction|?Richel, kids
 23 Aug|14:00-15:00|DNA extraction|?Richel, kids
-23 Aug|20:00-21:00|Human genome|?Richel, scholars
+23 Aug|16:00-17:00|DNA extraction|?Richel, kids
 24 Aug|14:00-15:00|DNA extraction|?Richel, kids
-24 Aug|20:00-21:00|Human genome|?Richel, scholars
-
- * `scholars`: 10+
- * `kids`: 7+
+24 Aug|16:00-17:00|DNA extraction|?Richel, kids
 
 ## Publicity
 
@@ -45,39 +41,6 @@ Je leert hoe je echt DNA uit een aardbei kunt halen enkel en
 alleen door het gebruik van zout, zeep en aardbeiensap. 
 Het experiment is eenvoudig en simpel, iedereen kan het. 
 En natuurlijk mag je je DNA na afloop meenemen.
-```
-
-### DIY-human-DNA | Electrophoresis on your DNA
-
-```
-Some text here
-```
-
-### [OBSOLETE] 12-22: THE HUMAN GENOME | A crash course
-
-```
-Obsolete as there is no WiFi at the festival
-```
-
-From [http://maakfestival.nl/programma/the-human-genome-a-crash-course](http://maakfestival.nl/programma/the-human-genome-a-crash-course)
-
-```
-In het jaar 200 werd de eerste versie van ‘The Human Genome’ gereleased. 
-Bijna twee decennia later weet nog steeds niemand wat het is…
-
-Tijdens deze workshop van DIYbio Groningen leer je de basis van ‘The Human Genome’; 
-hoe je relevante informatie kunt opzoeken en vinden. 
-
-Om mee te doen heb je een tablet of laptop nodig. 
-En let op: deze workshop wordt in het Engels gegeven.
-
-In English
-In the year 2000, the first draft of the Human Genome was released. 
-Almost 2 decades later, almost nobody knows it. 
-During this workshop, you will learn the basics, 
-where to get relevant information and how to surf it like you do with the internet.
-
-The course is in English and to participate to the interactive sessions you will need a tablet or a laptop.
 ```
 
 ## External links
