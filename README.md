@@ -32,15 +32,16 @@ Date|Time|What|Who
 
 ### 6-12: DIY-DNA | Haal DNA uit een aardbei
 
-From [http://maakfestival.nl/programma/bio-hacking-haal-dna-uit-een-aardbei](http://maakfestival.nl/programma/bio-hacking-haal-dna-uit-een-aardbei):
+From [https://www.noorderzon.nl/programma/programma-items/evolve-4](https://www.noorderzon.nl/programma/programma-items/evolve-4):
 
 ```
-Deelnemers van alle leeftijden zijn welkom om mee te doen 
-met dit kleurrijke experiment van Alessio Marcozzi. 
-Je leert hoe je echt DNA uit een aardbei kunt halen enkel en 
-alleen door het gebruik van zout, zeep en aardbeiensap. 
-Het experiment is eenvoudig en simpel, iedereen kan het. 
-En natuurlijk mag je je DNA na afloop meenemen.
+Evolve | Haal DNA uit een aardbei
+
+In het lab van ons paviljoen Evolve op Zuid krijg je een kijkje in de keuken van moleculair biologisch onderzoek en kun je zelf experimenteren.
+
+In dit kleurrijke experiment leer je hoe je DNA uit een aardbei kunt halen enkel en alleen door het gebruik van zout, zeep en aardbeiensap. Het experiment is eenvoudig, iedereen kan het. Na afloop mag je je DNA meenemen naar huis.
+
+Dit maakt onderdeel uit van Evolve, klik hier voor meer informatie.
 ```
 
 ## External links
