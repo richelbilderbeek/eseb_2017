@@ -2,7 +2,7 @@
 
 Activities at the ESEB 2017 by DIYbio and (optionally) the DJO N&T course.
 
- * 14:00-15:00: `DIY-DNA`, workshop aimed at 6-12
+ * 15:00-16:00: `DIY-DNA`, workshop aimed at 6-12
  * 16:00-17:00: `DIY-DNA`, workshop aimed at 6-12
 
 ## Schudule
@@ -17,15 +17,15 @@ Date|Time|What|Who
 
 Date|Time|What|Who
 ---|---|---|---
-20 Aug|14:00-15:00|DNA extraction|?Richel, kids
+20 Aug|15:00-16:00|DNA extraction|?Richel, kids
 20 Aug|16:00-17:00|DNA extraction|?Richel, kids
-21 Aug|14:00-15:00|DNA extraction|?Richel, kids
+21 Aug|15:00-16:00|DNA extraction|?Richel, kids
 21 Aug|16:00-17:00|DNA extraction|?Richel, kids
-22 Aug|14:00-15:00|DNA extraction|?Richel, kids
+22 Aug|15:00-16:00|DNA extraction|?Richel, kids
 22 Aug|16:00-17:00|DNA extraction|?Richel, kids
-23 Aug|14:00-15:00|DNA extraction|?Richel, kids
+23 Aug|15:00-16:00|DNA extraction|?Richel, kids
 23 Aug|16:00-17:00|DNA extraction|?Richel, kids
-24 Aug|14:00-15:00|DNA extraction|?Richel, kids
+24 Aug|15:00-16:00|DNA extraction|?Richel, kids
 24 Aug|16:00-17:00|DNA extraction|?Richel, kids
 
 ## Publicity
