@@ -5,6 +5,8 @@ Activities at the ESEB 2017 by DIYbio and (optionally) the DJO N&T course.
  * 15:00-16:00: `DIY-DNA`, workshop aimed at 6-12
  * 16:00-17:00: `DIY-DNA`, workshop aimed at 6-12
 
+At pavillion Evolve:
+
 ![At pavillion Evolve](PavillionEvolve.png)
 
 ## Schudule
