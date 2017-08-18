@@ -11,22 +11,23 @@ Activities at the ESEB 2017 by DIYbio and (optionally) the DJO N&T course.
 
 Date|Time|What|Who
 ---|---|---|---
-1 Aug|12:00|Deadline requesting extra volunteers|Richel
+SA 19 Aug|When Maakplek is open|Pick up DIYbio stuff|Alessio
+SU 20 Aug|12:00|Pick up eppendorfs at Gorechtkade 11A|Not needed anymore? Winand brings eppendorfs on Monday
 
 ### At festival
 
-Date|Time|What|Who
+Date|Time|What|Who `[captain] ([assistant])`
 ---|---|---|---
-20 Aug|15:00-16:00|DNA extraction|?Richel, kids
-20 Aug|16:00-17:00|DNA extraction|?Richel, kids
-21 Aug|15:00-16:00|DNA extraction|?Richel, kids
-21 Aug|16:00-17:00|DNA extraction|?Richel, kids
-22 Aug|15:00-16:00|DNA extraction|?Richel, kids
-22 Aug|16:00-17:00|DNA extraction|?Richel, kids
-23 Aug|15:00-16:00|DNA extraction|?Richel, kids
-23 Aug|16:00-17:00|DNA extraction|?Richel, kids
-24 Aug|15:00-16:00|DNA extraction|?Richel, kids
-24 Aug|16:00-17:00|DNA extraction|?Richel, kids
+SU 20 Aug|15:00-16:00|DNA extraction|Alessio (Richel)
+SU 20 Aug|16:00-17:00|DNA extraction|Alessio (Richel)
+MO 21 Aug|15:00-16:00|DNA extraction|Richel (Winand) 
+MO 21 Aug|16:00-17:00|DNA extraction|Winand (Richel)
+TU 22 Aug|15:00-16:00|DNA extraction|Richel (Winand)
+TU 22 Aug|16:00-17:00|DNA extraction|Winand (Richel)
+WE 23 Aug|15:00-16:00|DNA extraction|Richel
+WE 23 Aug|16:00-17:00|DNA extraction|Richel
+TH 24 Aug|15:00-16:00|DNA extraction|Richel
+TH 24 Aug|16:00-17:00|DNA extraction|Richel
 
 ## Publicity
 
